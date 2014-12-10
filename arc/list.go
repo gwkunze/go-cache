@@ -3,7 +3,7 @@ package arc
 import "container/list"
 
 //import . "go-cache"
-import "github.com/moovweb/go-cache/base"
+import "github.com/gwkunze/go-cache/base"
 
 type CdbList struct {
 	l    *list.List

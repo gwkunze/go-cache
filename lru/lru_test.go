@@ -1,7 +1,7 @@
 package lru
 
 import "testing"
-import "github.com/moovweb/go-cache"
+import "github.com/gwkunze/go-cache"
 import "math/rand"
 import "time"
 import "strconv"

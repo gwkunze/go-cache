@@ -4,8 +4,8 @@ import (
 	"container/list"
 	"errors"
 
-	. "github.com/moovweb/go-cache"
-	"github.com/moovweb/go-cache/base"
+	. "github.com/gwkunze/go-cache"
+	"github.com/gwkunze/go-cache/base"
 )
 
 const (

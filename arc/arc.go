@@ -1,6 +1,6 @@
 package arc
 
-import "github.com/moovweb/go-cache/base"
+import "github.com/gwkunze/go-cache/base"
 
 func NewARCache(size int) *base.BaseCache {
 	arc := newCdbm()

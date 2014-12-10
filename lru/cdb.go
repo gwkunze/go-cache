@@ -2,8 +2,8 @@ package lru
 
 import (
 	"container/list"
-	. "github.com/moovweb/go-cache"
-	"github.com/moovweb/go-cache/base"
+	. "github.com/gwkunze/go-cache"
+	"github.com/gwkunze/go-cache/base"
 )
 
 type LruCdbm struct {

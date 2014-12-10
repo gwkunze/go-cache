@@ -1,9 +1,9 @@
 package test
 
 import "testing"
-import "github.com/moovweb/go-cache/arc"
-import "github.com/moovweb/go-cache/lru"
-import "github.com/moovweb/go-cache/base"
+import "github.com/gwkunze/go-cache/arc"
+import "github.com/gwkunze/go-cache/lru"
+import "github.com/gwkunze/go-cache/base"
 import "strings"
 import "io/ioutil"
 import "sync"

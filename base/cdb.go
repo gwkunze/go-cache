@@ -1,6 +1,6 @@
 package base
 
-import . "github.com/moovweb/go-cache"
+import . "github.com/gwkunze/go-cache"
 
 type CacheDirectoryBlock interface {
 	GetKey() string
